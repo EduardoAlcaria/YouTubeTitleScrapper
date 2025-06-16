@@ -142,7 +142,7 @@ def extract_all_titles(driver):
     return unique_titles
 
 def main():
-    playlist_url = "https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW"
+    playlist_url = "https://www.youtube.com/playlist?list=PLN39y5i_H0FlTkHw4iOCD-OVUuf993MZn"
     
     print("YouTube Playlist Complete Scraper")
     print("This will open a browser and scroll through the ENTIRE playlist")
